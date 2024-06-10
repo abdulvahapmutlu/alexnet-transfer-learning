@@ -1,4 +1,4 @@
- Alexnet-transfer-learning
+# Alexnet-transfer-learning
  AlexNet Transfer Learning for Feature Extraction and Selection
 
  This repository contains code for extracting features from images using a pre-trained AlexNet model through transfer learning. It then performs feature selection using the Chi-square test to identify the most relevant features. This can be utilized for various machine learning tasks such as image classification and clustering.
